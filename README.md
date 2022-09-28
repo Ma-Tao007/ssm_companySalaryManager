@@ -1,9 +1,6 @@
 本系统为基于ssm的公司工资管理系统：
 
-项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
-
-![公众号二维码](./截图/wechat.png)
-
+源码下载地址：http://www.manoncode.cn/details?id=39
 
 技术框架：ssm+layui+jquery+mysql+echarts等<br>
 项目介绍：<br>
